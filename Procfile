@@ -1,1 +1,1 @@
-heroku buildpacks: add https://github.com/DuckyTeam/heroku-buildpack-imagemagick
+$ heroku config:add BUILDPACK_URL=https://github.com/lemurheavy/heroku-buildpack-imagemagick
